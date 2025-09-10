@@ -2,7 +2,7 @@
 
 This repository contains the necessary files for the DataSpecificationNavigator experiment.
 
-You are given 3 questions in natural language. Your task is to write a SPARQL query for each of the given question.
+You are given 3 questions in natural language and a [data specification](https://tool.dataspecer.com/api/preview/en/index.html?iri=d51bc125-f2f7-484b-8a57-f8f2b7291d69) about tourist destinations. Your task is to write a SPARQL query for each of the given question.
 
 You can use a local [Apache Jena Fuseki](https://jena.apache.org/documentation/fuseki2/) instance to test your SPARQL queries against the provided dataset.
 The instructions for setting it up are [below](#setting-up-a-fuseki-instance).
