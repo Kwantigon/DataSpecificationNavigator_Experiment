@@ -1,4 +1,4 @@
-# DataSpecificationNavigator_Experiment
+# DataSpecificationNavigator experiment
 
 This repository contains the necessary files for the DataSpecificationNavigator experiment.
 
@@ -6,6 +6,12 @@ You are given 3 questions in natural language. Your task is to write a SPARQL qu
 
 You can use a local [Apache Jena Fuseki](https://jena.apache.org/documentation/fuseki2/) instance to test your SPARQL queries against the provided dataset.
 The instructions for setting it up are [below](#setting-up-a-fuseki-instance).
+
+To participate, start by cloning this repository.
+
+```bash
+git clone https://github.com/Kwantigon/DataSpecificationNavigator_Experiment.git
+```
 
 ## Requirements
 
