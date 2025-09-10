@@ -36,7 +36,9 @@ cd fuseki
 		 run_fuseki.bat
 		 ```
 
-2. **Upload the dataset**
+2. **Wait 4 seconds for the container to start up properly.**
+
+3. **Upload the dataset**
 	 
 	 - On **Linux**:
 		 ```bash
@@ -47,7 +49,7 @@ cd fuseki
 		 upload_data.bat
 		 ```
 
-3. **Access the SPARQL endpoint**
+4. **Access the SPARQL endpoint**
 
 	 Open your browser at: [http://localhost:3030/#/dataset/tourist-destination/query](http://localhost:3030/#/dataset/tourist-destination/query)
 
