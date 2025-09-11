@@ -27,6 +27,11 @@ Go to the fuseki directory.
 ```bash
 cd fuseki
 ```
+If you're on **Linux**, you have to make the .sh scripts executable.
+
+```bash
+chmod +x *.sh
+```
 
 1. **Start Fuseki**
 
@@ -65,7 +70,7 @@ When you want to stop the Fuseki container and remove temporary database files, 
 
 - On **Linux**:
 ```bash
-./remove_fuseki.sh
+sudo ./remove_fuseki.sh
 ```
 - On **Windows**:
 ```cmd
@@ -97,7 +102,7 @@ Don't forget to stop the running Fuseki container and remove its database files.
 
 - On **Linux**:
 ```bash
-./remove_fuseki.sh
+sudo ./remove_fuseki.sh
 ```
 - On **Windows**:
 ```cmd
