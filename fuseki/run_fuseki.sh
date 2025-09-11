@@ -1,6 +1,7 @@
 #!/bin/sh
 
 mkdir -p ./data-volume
+chmod -R 777 ./data-volume
 
 docker run \
 	--name fuseki \
