@@ -12,6 +12,9 @@ To participate, start by cloning this repository.
 ```bash
 git clone https://github.com/Kwantigon/DataSpecificationNavigator_Experiment.git
 ```
+```bash
+cd DataSpecificationNavigator_Experiment
+```
 
 ## Requirements
 
