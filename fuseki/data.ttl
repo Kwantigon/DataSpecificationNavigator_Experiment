@@ -20,8 +20,7 @@
         a bf:bezbariérový-přístup ;
         bf:výtah-u-hlavního-vstupu "true" ;
         bf:výtah-v-interiéru "true"
-    ] ;
-    tc:kouření-povoleno "false" .
+    ] .
 
 #################################################################
 # Tourist Destination 2
